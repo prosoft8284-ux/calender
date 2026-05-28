@@ -1,0 +1,6 @@
+{
+  "name": "تقویم هدف",
+  "description": "برنامه تقویم هوشمند با قابلیت ثبت اهداف و خط خوردن تدریجی روزها با گذشت زمان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
